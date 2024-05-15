@@ -8,27 +8,26 @@ I am deeply passionate about **Full Stack Development**, **Mobile technology**, 
 
 <br>
 
-<a href="https://github.com/ishaileshmishra/ishaileshmishra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/mihaidevexplorer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaidevexplorer&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/ishaileshmishra/ishaileshmishra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="talhakerpicci's github stats" />
+<a href="https://github.com/mihaidevexplorer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihaidevexplorer&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="mihaidevexplorer's github stats" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=ishaileshmishra&theme=gruvbox_duo&hide_border=true)](https://ishaileshmishra.medium.com/)
+[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=mihaidevexplorer&theme=gruvbox_duo&hide_border=true)](https://mihaidevexplorer.medium.com/)
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/overview.svg#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihaidevexplorer/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihaidevexplorer/github-stats/master/generated/overview.svg#gh-light-mode-only">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaileshmishra/github-stats/master/generated/languages.svg#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihaidevexplorer/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihaidevexplorer/github-stats/master/generated/languages.svg#gh-light-mode-only">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-
 
