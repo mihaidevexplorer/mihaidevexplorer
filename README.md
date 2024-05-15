@@ -32,13 +32,9 @@ I am deeply passionate about **Full Stack Development**, **Mobile technology**, 
 </div>
 
 
-###
+![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+### SNAKE:
 
 
 
